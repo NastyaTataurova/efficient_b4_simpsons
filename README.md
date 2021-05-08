@@ -1,2 +1,2 @@
 # efficient_b4_simpsons
-Классификация персонажей из Симпсонов с использованием Fine Tuning на Efficient b4.
+Classification of characters from the Simpsons using Fine Tuning on Efficient b4.
